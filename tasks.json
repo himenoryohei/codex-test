@@ -1,0 +1,16 @@
+{
+  "himeno": [
+    {
+      "task": "test task",
+      "progress": 70
+    },
+    {
+      "task": "test task 2",
+      "progress": 0
+    },
+    {
+      "task": "test task 3",
+      "progress": 0
+    }
+  ]
+}
